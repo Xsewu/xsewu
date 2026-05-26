@@ -28,3 +28,14 @@
 
 ## Databases
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+## <img width="22" height="22" src="https://rutai.kia.prz.edu.pl/images/rag-2.png" alt="RUT-AI-GAMES"/> RUT-AI-GAMES 2
+
+- **DESCRIPTION:**  
+  Application with web minigames prepared to collect game data and connect AI models to game agents via websocket.
+- **MY ROLE:**  
+  Fullstack Developer: built two games from scratch (Crashball & Abalone), implemented backend features for account management, and contributed across the full stack.
+- **TECH STACK:**  
+  Angular, TypeScript, C# / ASP.NET Core, PostgreSQL, Redis, Python, Docker, Babylon.js
+- **CHECK IT** ▶️ https://rutai.kia.prz.edu.pl/
